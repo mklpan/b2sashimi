@@ -12,5 +12,14 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mklpan/b2sashimi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mklpan/b2sashimi/issues"
+  },
+  "homepage": "https://github.com/mklpan/b2sashimi#readme"
 }

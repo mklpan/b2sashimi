@@ -8,12 +8,18 @@
     "start": "npm run lite",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Mickey Lee",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mklpan/b2sashimi.git"

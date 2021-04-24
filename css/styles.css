@@ -1,0 +1,68 @@
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: url(/img/unistack.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.navbar {
+    background-color: black;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+header h1 {
+    font-size: 5em;
+}
+
+header h2 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.5em;
+}
+
+.navbar h2 {
+    color: white;
+}
+
+.site-footer {
+    background-color: black;
+    padding: 20px 0;
+}
+
+.carousel-img {
+    object-position: 50% 40%;
+    height: 30rem;
+    object-fit: cover;
+}
+
+.carousel-img2 {
+    object-position: 50% 60%;
+    height: 30rem;
+    object-fit: cover;
+}
+
+.carousel-img3 {
+    object-position: 50% 80%;
+    height: 30rem;
+    object-fit: cover;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 5px ridge;
+    min-height: 200px;
+}
+
+hr.solid {
+    border-top: 70px solid black;
+    margin: 0;
+}
+
